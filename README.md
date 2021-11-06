@@ -10,7 +10,7 @@ The rating file was so large the data had to be chunked before loading to Postgr
  
 ### Movies Table
 ---
-![Movies Table](movies_query.png)
+![Movies Table](/Resources/movies_query.png)
 
 ### Ratings Table
-![Ratings Table](ratings_query.png)
+![Ratings Table](/Resources/ratings_query.png)
