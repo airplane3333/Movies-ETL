@@ -9,6 +9,7 @@ __pycache__/
 #movie data is to large
 ratings.csv
 config.py
+config1.py
 
 # Distribution / packaging
 .Python
